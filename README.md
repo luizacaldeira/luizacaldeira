@@ -6,12 +6,15 @@
 
 - Habilidades externas:
 
-![novoAFTER EFFECTS](https://github.com/luizacaldeira/luizacaldeira/assets/143027265/2474c2d8-2eb5-4b32-81c8-6ea181441ea7)      ![novo canva](https://github.com/luizacaldeira/luizacaldeira/assets/143027265/a906bbf9-d424-4aec-a54f-ff8ea36b8e82)     ![novo pacote office](https://github.com/luizacaldeira/luizacaldeira/assets/143027265/2e61b449-9f40-43b9-905f-3960344873e2)
+![novoAFTER EFFECTS](https://github.com/luizacaldeira/luizacaldeira/assets/143027265/7099f075-1a9a-4cc0-a4ce-412fe31210c4)      ![novo canva](https://github.com/luizacaldeira/luizacaldeira/assets/143027265/5963f7ac-eae4-439c-8564-7a1a68d8c024)     ![novo pacote office](https://github.com/luizacaldeira/luizacaldeira/assets/143027265/81e12f35-f600-48f8-a4c6-3a3ab32daa77)
+
+
 
 
 - Aprendendo:
 
-![novo C++](https://github.com/luizacaldeira/luizacaldeira/assets/143027265/2e1b83c5-3773-47fe-b157-d027aec5f8f3)     ![novo html1](https://github.com/luizacaldeira/luizacaldeira/assets/143027265/7dc44f2b-c1f1-447a-9184-b0bff3643572)
-     ![novo java](https://github.com/luizacaldeira/luizacaldeira/assets/143027265/b01a6126-80f7-4bee-a1c1-21e3b800766c)
+![novo C++](https://github.com/luizacaldeira/luizacaldeira/assets/143027265/3317a88a-f1b7-463c-8769-026f5911f7e5)     ![novo html1](https://github.com/luizacaldeira/luizacaldeira/assets/143027265/0606fa79-1dec-4e42-a1a0-10db4890b659)     ![novo java](https://github.com/luizacaldeira/luizacaldeira/assets/143027265/209662ab-ea9d-407e-9dd2-cc407b1b0a1d)
+
+
 
 
