@@ -1,20 +1,24 @@
-### Olá! 👋
+### 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎!👋
 
-- Atualmente cursando Sistemas de Informação pela Universiade Federal de Juiz de Fora.
-- Voluntária do projeto Meninas digitais UFJF.
-- Inglês intermediário.
+➺ Currently studying Information Systems at the Federal University of Juiz de Fora.
 
-- Habilidades externas:
+➺ Volunteer at the "Meninas Digitais UFJF" project.
 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ![novoAFTER EFFECTS](https://github.com/luizacaldeira/luizacaldeira/assets/143027265/7099f075-1a9a-4cc0-a4ce-412fe31210c4)‎ ‎ ‎ ‎ ‎ ‎ ‎ ![novo canva](https://github.com/luizacaldeira/luizacaldeira/assets/143027265/5963f7ac-eae4-439c-8564-7a1a68d8c024)‎ ‎ ‎ ‎ ‎ ‎ ‎ ![novo pacote office](https://github.com/luizacaldeira/luizacaldeira/assets/143027265/81e12f35-f600-48f8-a4c6-3a3ab32daa77)
+➺ Basic/intermediate English
 
+<p align="center" >
+𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐:
+</p>
 
+<div align="center"> 
+<img src="https://github.com/luizacaldeira/luizacaldeira/assets/143027265/91ad4f82-9580-4da4-9437-2bae96cc825b" width="350" />
+</div>
 
+<p align="center">
+𝚎𝚡𝚝𝚎𝚛𝚗𝚊𝚕 𝚜𝚔𝚒𝚕𝚕𝚜:
+</p>
 
-- Aprendendo:
-
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ![novo C++](https://github.com/luizacaldeira/luizacaldeira/assets/143027265/3317a88a-f1b7-463c-8769-026f5911f7e5)‎ ‎ ‎ ‎ ‎ ‎ ‎ ![novo html1](https://github.com/luizacaldeira/luizacaldeira/assets/143027265/0606fa79-1dec-4e42-a1a0-10db4890b659)‎ ‎ ‎ ‎ ‎ ‎ ‎ ![novo java](https://github.com/luizacaldeira/luizacaldeira/assets/143027265/209662ab-ea9d-407e-9dd2-cc407b1b0a1d)
-
-
-
+<div align="center"> 
+<img src="https://github.com/luizacaldeira/luizacaldeira/assets/143027265/b7a6c05a-90e8-4064-8bf0-f5f31d7cc264" width="300" />
+</div>
 
