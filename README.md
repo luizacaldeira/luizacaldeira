@@ -4,7 +4,7 @@
 
 ➺ Volunteer at the "Meninas Digitais UFJF" project.
 
-➺ Basic/intermediate English
+➺ Basic English
 
 <p align="center" >
 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐:
