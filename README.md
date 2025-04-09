@@ -2,10 +2,6 @@
 
 ➺ Currently studying Information Systems at the Federal University of Juiz de Fora.
 
-➺ Volunteer at the "Meninas Digitais UFJF" project.
-
-➺ Basic English
-
 <p align="center" >
 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐:
 </p>
