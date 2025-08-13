@@ -41,7 +41,7 @@
 
 <div align="center" style="background: #fff0f6; border-radius: 18px; padding: 18px 0; margin-bottom: 18px; box-shadow: 0 2px 8px #ffb6d555; max-width: 600px; margin-left: auto; margin-right: auto;">
 	<h2 style="margin-left: 24px;">&#128279; Contact</h2>
-	<a href="luizaccaldeiradaniel@gmail.com"><img src="https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+	<a href="mailto:luizaccaldeiradaniel@gmail.com"><img src="https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 	<a href="https://www.linkedin.com/in/luiza-caldeira/"><img src="https://img.shields.io/badge/LinkedIn-ffb6d5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 	<a href="https://github.com/luizacaldeira"><img src="https://img.shields.io/badge/GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
