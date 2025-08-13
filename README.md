@@ -4,7 +4,7 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6d5,100:ff69b4&height=220&section=header&text=Luiza%20Caldeira&fontSize=38&fontColor=fff&alt="animated banner" style="border-radius: 18px; max-width: 90%; display: block; margin-left: auto; margin-right: auto;"/>
     <br/>
 	<div style="background:linear-gradient(135deg,#ffb6d5 0%,#ff69b4 100%);border-radius:14px;padding:10px 0 6px 0;margin:10px 0 0 0;box-shadow:0 2px 8px #ffb6d555;max-width:470px; text-align: left;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=600&size=28&pause=1000&color=FFC4F4&background=A8517F00&center=true&vCenter=true&width=720&height=40&lines=UI%2FUX+Enthusiast;Front-End+Dev;WEB+Development;Always+Learning;Creative+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=600&size=24&pause=1000&color=FFC4F4&background=A8517F00&center=true&vCenter=true&width=720&height=40&lines=UI%2FUX+Enthusiast;Front-End+Dev;WEB+Development;Always+Learning;Creative+Solutions" alt="Typing SVG" />
 	</div>
 
 </div>
@@ -39,7 +39,7 @@
 					<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizacaldeira&layout=compact&theme=radical&card_width=370&custom_title=Most%20Used%20Languages" width="370" height="220"/>
 				</td>
 				<td>
-					<img src="IMG_7934.PNG" alt="Minha foto" style="width:180px; border-radius:16px; margin:16px 0; box-shadow:0 2px 8px #ffb6d555;" />
+					<img src="mypic.png" alt="Minha foto" style="width:180px; border-radius:16px; margin:16px 0; box-shadow:0 2px 8px #ffb6d555;" />
 				</td>
 			</tr>
 		</table>
@@ -49,8 +49,8 @@
 
 <div align="center" style="background: #fff0f6; border-radius: 18px; padding: 18px 0; margin-bottom: 18px; box-shadow: 0 2px 8px #ffb6d555; max-width: 600px; margin-left: auto; margin-right: auto;">
 	<h2 style="margin-left: 24px;">&#128279; Contact</h2>
-	<a href="mailto:youremail@email.com"><img src="https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-	<a href="https://www.linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-ffb6d5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+	<a href="luizaccaldeiradaniel@gmail.com"><img src="https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+	<a href="https://www.linkedin.com/in/luiza-caldeira/"><img src="https://img.shields.io/badge/LinkedIn-ffb6d5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 	<a href="https://github.com/luizacaldeira"><img src="https://img.shields.io/badge/GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
