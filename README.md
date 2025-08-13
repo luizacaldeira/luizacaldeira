@@ -33,16 +33,8 @@
 <div align="center" style="background: #fff0f6; border-radius: 18px; padding: 18px 0; margin-bottom: 18px; box-shadow: 0 2px 8px #ffb6d555;">
 		<h2 style="margin-left: 24px;">&#128200; GitHub Stats</h2>
 		<table style="border:0">
-			<tr>
-				<td>
-					<img src="https://github-readme-stats.vercel.app/api?username=luizacaldeira&show_icons=true&theme=radical&card_width=370" width="370" height="220"/><br>
-					<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizacaldeira&layout=compact&theme=radical&card_width=370&custom_title=Most%20Used%20Languages" width="370" height="220"/>
-				</td>
-				<td>
-					<img src="mypic.png" alt="Minha foto" style="width:180px; border-radius:16px; margin:16px 0; box-shadow:0 2px 8px #ffb6d555;" />
-				</td>
-			</tr>
-		</table>
+			<img src="https://github-readme-stats.vercel.app/api?username=luizacaldeira&show_icons=true&theme=radical&card_width=370" width="370" height="220"/><br>
+			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizacaldeira&layout=compact&theme=radical&card_width=370&custom_title=Most%20Used%20Languages" width="370" height="220"/>
 </div>
 
 ---
