@@ -6,7 +6,7 @@
 	     style="border-radius: 18px; max-width: 90%; display: block; margin-left: auto; margin-right: auto;"/>
     <br/>
 	<div style="background:linear-gradient(135deg,#ffb6d5 0%,#ff69b4 100%);border-radius:14px;padding:10px 0 6px 0;margin:10px 0 0 0;box-shadow:0 2px 8px #ffb6d555;max-width:470px; text-align: left;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=600&size=24&pause=1000&color=FFC4F4&background=A8517F00&center=true&vCenter=true&width=720&height=40&lines=UI%2FUX+Enthusiast;Front-End+Dev;WEB+Development;Always+Learning;Creative+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=600&size=24&duration=2500&pause=900&color=FFC4F4&background=A8517F00&center=true&vCenter=true&width=720&height=40&lines=UI%2FUX+Enthusiast;Front-End+Developer;WEB+Development;Always+Learning;Creative+Solutions" alt="Typing SVG" />
 	</div>
 
 </div>
