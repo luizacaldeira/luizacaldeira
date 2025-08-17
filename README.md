@@ -1,7 +1,9 @@
 # Welcome to my profile!
 
 <div align="center" style="background: linear-gradient(135deg, #ffb6d5 0%, #ff69b4 100%); border-radius: 24px; padding: 28px 0 18px 0; margin-bottom: 28px; box-shadow: 0 4px 24px #ffb6d555;">
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6d5,100:ff69b4&height=220&section=header&text=Luiza%20Caldeira&fontSize=38&fontColor=fff&alt="animated banner" style="border-radius: 18px; max-width: 90%; display: block; margin-left: auto; margin-right: auto;"/>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6d5,100:ff69b4&height=220&section=header&text=Luiza%20Caldeira&fontSize=38&fontColor=fff&fontAlign=50&fontAlignY=40" 
+	     alt="animated banner" 
+	     style="border-radius: 18px; max-width: 90%; display: block; margin-left: auto; margin-right: auto;"/>
     <br/>
 	<div style="background:linear-gradient(135deg,#ffb6d5 0%,#ff69b4 100%);border-radius:14px;padding:10px 0 6px 0;margin:10px 0 0 0;box-shadow:0 2px 8px #ffb6d555;max-width:470px; text-align: left;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=600&size=24&pause=1000&color=FFC4F4&background=A8517F00&center=true&vCenter=true&width=720&height=40&lines=UI%2FUX+Enthusiast;Front-End+Dev;WEB+Development;Always+Learning;Creative+Solutions" alt="Typing SVG" />
