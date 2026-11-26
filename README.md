@@ -1,45 +1,46 @@
-# Welcome to my profile!
-
-<div align="center" style="background: linear-gradient(135deg, #ffb6d5 0%, #ff69b4 100%); border-radius: 24px; padding: 28px 0 18px 0; margin-bottom: 28px; box-shadow: 0 4px 24px #ffb6d555;">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6d5,100:ff69b4&height=220&section=header&text=Luiza%20Caldeira&fontSize=38&fontColor=fff&fontAlign=50&fontAlignY=40" 
-         alt="animated banner" 
-         style="border-radius: 18px; max-width: 90%; display: block; margin-left: auto; margin-right: auto;"/>
-    <br/>
-    <div style="background:linear-gradient(135deg,#ffb6d5 0%,#ff69b4 100%);border-radius:14px;padding:10px 0 6px 0;margin:10px 0 0 0;box-shadow:0 2px 8px #ffb6d555;max-width:470px; text-align: left;">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=600&size=24&duration=2500&pause=900&color=FFC4F4&background=A8517F00&center=true&vCenter=true&width=720&height=40&lines=UI%2FUX+Enthusiast;Front-End+Developer;WEB+Development;Always+Learning;Creative+Solutions" alt="Typing SVG" />
-    </div>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./.idea/assets/header-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./.idea/assets/header-light.png">
+  <img src="./.idea/assets/header-light.png" alt="you don’t need more OVERHEAD, you need to automate people’s processes" width="680"/>
+</picture>
+<h3>Hi, I’m Luiza Caldeira</h3>
+ 
+<p>
+Software engineer working with process modeling and automation,<br/>
+with a focus on creating solutions people actually adopt.
+</p>
+<img src="./.idea/assets/bpmn-divider.png" alt="" width="800"/>
+<h3>About Me</h3>
+ 
+<p>
+I work with process modeling and automation, and I develop with JavaScript.<br/>
+I enjoy solving real problems, designing creative solutions,<br/>
+and paying close attention to the user experience and how people adopt what I build.
+</p>
+<p>
+I’m studying Information Systems at the Federal University of Juiz de Fora, Brazil,<br/>
+and I’m committed to continuous learning as I grow toward a career in product.
+</p>
+<h3>Interests</h3>
+ 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./.idea/assets/interests-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./.idea/assets/interests-light.png">
+  <img src="./.idea/assets/interests-light.png" alt="Interests: product, UX and adoption, BPMN, process automation, architecture, creative solutions" width="620"/>
+</picture>
+<h3>Tech Stack</h3>
+ 
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,git,github,vscode,cpp,php&theme=dark" alt="Technologies and tools"/>
+<h3>Get in Touch</h3>
+ 
+<a href="https://luizacald-portfolio.vercel.app/"><img src="./.idea/assets/link-portfolio.png" alt="Portfolio" height="36"/></a>
+<a href="https://www.linkedin.com/in/luiza-caldeira/"><img src="./.idea/assets/link-linkedin.png" alt="LinkedIn" height="36"/></a>
+<a href="https://github.com/luizacaldeira"><img src="./.idea/assets/link-github.png" alt="GitHub" height="36"/></a>
+<a href="mailto:luizaccaldeiradaniel@gmail.com"><img src="./.idea/assets/link-email.png" alt="Email" height="36"/></a>
+ 
+<br/>
+<sub>©2026 Luiza Caldeira</sub>
+ 
 </div>
-
----
-
-<div align="left" style="background: #fff0f6; border-radius: 18px; padding: 18px 0; margin-bottom: 18px; box-shadow: 0 2px 8px #ffb6d555; max-width: 600px; margin-left: auto; margin-right: auto;">
-    <h2 style="margin-left: 24px;">&#128100; About Me</h2>
-    <ul style="list-style:none;padding:0;font-size:1.1em;">
-        <li>Studying Information Systems at the Federal University of Juiz de Fora</li>
-        <li>Passionate about learning new technologies and solving problems</li>
-        <li>Location: Juiz de Fora, MG, Brazil</li>
-        <li>Interests: Front-end development, UI/UX design, Web development</li>
-    </ul>
-</div>
-
----
-
-<div align="center" style="background: #fff0f6; border-radius: 18px; padding: 18px 0; margin-bottom: 18px; box-shadow: 0 2px 8px #ffb6d555; max-width: 600px; margin-left: auto; margin-right: auto;">
-    <h2 style="margin-left: 24px;">&#9889; Technologies & Tools</h2>
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,git,github,vscode,cpp,php" />
-</div>
-
----
-
-<div align="center" style="background: #fff0f6; border-radius: 18px; padding: 18px 0; margin-bottom: 18px; box-shadow: 0 2px 8px #ffb6d555; max-width: 600px; margin-left: auto; margin-right: auto;">
-    <h2>&#128187; Portfolio & Contact</h2>
-    <a href="https://luizacald-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-    <a href="mailto:luizaccaldeiradaniel@gmail.com"><img src="https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/luiza-caldeira/"><img src="https://img.shields.io/badge/LinkedIn-ffb6d5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://github.com/luizacaldeira"><img src="https://img.shields.io/badge/GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=white"/></a>
-</div>
-
-
-<div align="center" style="margin-top: 24px;">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6d5,100:ff69b4&height=120&section=footer"/>
-</div>
+ 
