@@ -9,7 +9,7 @@ Software Engineer Trainee at **LEVTY**, working with end-to-end business process
 
 ### About Me
 
-I enjoy coding, solving complex problems, taking on technical challenges, and finding creative ways to turn ideas into practical solutions. I'm particularly interested in the intersection of software engineering, business, and user experience — understanding not only how to build solutions, but also why they matter and how people interact with them.
+I enjoy coding, solving complex problems, taking on technical challenges, and finding creative ways to turn ideas into practical solutions. I'm particularly interested in the intersection of software engineering, business, and user experience, understanding not only how to build solutions, but also why they matter and how people interact with them.
 
 I'm currently pursuing a degree in **Information Systems** at the **Federal University of Juiz de Fora (UFJF)**, continuously learning and exploring the intersection of technology and product development.
 
